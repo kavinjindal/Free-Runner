@@ -1,5 +1,5 @@
 # Free-Runner
-This is my first everg game that I have started working on. It is a running game like Super Mario.  I was recently learning Gdevelop and I have started making my own games using this software. This is likely to release by the end of August so stay tuned. 
+This is my first evert game that I have started working on. It is a running game like Super Mario.  I was recently learning Gdevelop and I have started making my own games using this software. This is likely to release by the end of August so stay tuned. 
 
 # Platforms:
 I am thinking of releasing this game on all platforms, but for a start this game will release only for platforms below
