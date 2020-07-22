@@ -23,7 +23,9 @@ I am thinking of releasing this game on all platforms, but for a start this game
 # Game screenshots
 
 ![](ss4.PNG)
+
 ![](screenshit.png)
+
 ![](ss2.png)
 
 # Gamedev images
