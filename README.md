@@ -24,13 +24,13 @@ I am thinking of releasing this game on all platforms, but for a start this game
 
 ![](ss4.PNG)
 
-![](screenshit.png)
+![](screenshit.PNG)
 
-![](ss2.png)
+![](ss2.PNG)
 
 # Gamedev images
 
-![](ss3.png)
+![](ss3.PNG)
 
 # Future Updates
 
