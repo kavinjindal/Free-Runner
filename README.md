@@ -20,6 +20,9 @@ I am thinking of releasing this game on all platforms, but for a start this game
 # Installation:
 - > You directly have to install the game. There is an auto-installer for the game.
 
+# Player
+![](ss4.png)
+
 # Future Updates
 
  The future updates will include the following:
