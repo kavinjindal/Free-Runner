@@ -1,8 +1,5 @@
 # Free-Runner
-This is my first evert game that I have started working on. It is a running game like Super Mario.  I was recently learning Gdevelop and I have started making my own games using this software. This is likely to release by the end of August so stay tuned. 
-
-- > A testing version for this game has been released. It was large so it could not be uploaded on github, but you can download it from link below
-* https://drive.google.com/drive/folders/17WQQy6ckl0TyDIkR17K52VhfB9qz68gg?usp=sharing
+This is my first evert game that I have started working on. It is a running game like Super Mario.  I was recently learning Gdevelop and I have started making my own games using this software. This is likely to release by the end of October so stay tuned. 
 
 # Platforms:
 I am thinking of releasing this game on all platforms, but for a start this game will release only for platforms below
@@ -21,7 +18,8 @@ I am thinking of releasing this game on all platforms, but for a start this game
  - There are 4 lives for the player in the whole game.
  
 # Installation:
-- > You directly have to install the game. There is an auto-installer for the game.
+- > There is another node.zip file that you will have to install in your system in order to run the game. 
+- > The file is known as node.dll, this file is essential to run several games on systems. 
 
 # Game screenshots
 
@@ -44,6 +42,9 @@ I am thinking of releasing this game on all platforms, but for a start this game
 * Boss Battle
 * Save file system
 * Player Rankings
+
+# Release
+* The program development is going on, and will release by October, it's trial has released but its under testing. 
 
 # For any query contact us here:
 * Email - kavinsjindal@gmail.com
