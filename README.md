@@ -1,6 +1,9 @@
 # Free-Runner
 This is my first evert game that I have started working on. It is a running game like Super Mario.  I was recently learning Gdevelop and I have started making my own games using this software. This is likely to release by the end of August so stay tuned. 
 
+- > A testing version for this game has been released. It was large so it could not be uploaded on github, but you can download it from link below
+* https://drive.google.com/drive/folders/17WQQy6ckl0TyDIkR17K52VhfB9qz68gg?usp=sharing
+
 # Platforms:
 I am thinking of releasing this game on all platforms, but for a start this game will release only for platforms below
 * Windows
