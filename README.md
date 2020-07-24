@@ -1,6 +1,10 @@
 # Free-Runner
 This is my first evert game that I have started working on. It is a running game like Super Mario.  I was recently learning Gdevelop and I have started making my own games using this software. This is likely to release by the end of October so stay tuned. 
 
+# Looking for beta testers
+I am looking for people  who can test this game on their devices. I will give them the trial versions to them as soon as it is updated. To apply for becoming a beta tester, email me here
+* kavinsjindal@gmail.com
+
 # Platforms:
 I am thinking of releasing this game on all platforms, but for a start this game will release only for platforms below
 * Windows
