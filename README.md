@@ -29,7 +29,6 @@ GDevelop
 
  - The game will have a character which will run through the map created.
  - He will collect coins on the way.
- - There are currently no enemies added, but there will be enemies inserted in the future updates of the game.
  - There are 4 lives for the player in the whole game.
  
  
