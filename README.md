@@ -1,18 +1,29 @@
 # Free-Runner
 This is my first evert game that I have started working on. It is a running game like Super Mario.  I was recently learning Gdevelop and I have started making my own games using this software. This is likely to release by the end of October so stay tuned. 
 
-# Looking for beta testers
-I am looking for people  who can test this game on their devices. I will give them the trial versions to them as soon as it is updated. To apply for becoming a beta tester, email me here
-* kavinsjindal@gmail.com
+# Play game online
+https://games.gdevelop-app.com/game-bf0f6eba-f041-4064-94b1-69fe20860643/index.html
+
+
 
 # Platforms:
-I am thinking of releasing this game on all platforms, but for a start this game will release only for platforms below
-* Windows
-* MacOs
-* Linux
+Online
 
 # Version
+
 * The first version which will release will be 1.1.0
+
+# Note : 
+
+The game is just an experiment I haven't made more than 3 levels and the 3rd level is broken. I havent added any music or sounds also. Just published it as a memory as I started making it in July last year. 
+
+# Source Files
+
+Extract the Free_Runner.zip file to get textures and all the source files
+
+# Game Engine
+
+GDevelop
 
 # Features
 
@@ -21,6 +32,12 @@ I am thinking of releasing this game on all platforms, but for a start this game
  - There are currently no enemies added, but there will be enemies inserted in the future updates of the game.
  - There are 4 lives for the player in the whole game.
  
+ 
+# Future Updates : 
+
+I will be no longer working on this game
+
+
 # Installation:
 - > There is another node.zip file that you will have to install in your system in order to run the game. 
 - > The file is known as node.dll, this file is essential to run several games on systems. 
@@ -37,18 +54,6 @@ I am thinking of releasing this game on all platforms, but for a start this game
 
 ![](ss3.PNG)
 
-# Future Updates
-
- The future updates will include the following:
-* Tough levels
-* More maps
-* Enemies
-* Boss Battle
-* Save file system
-* Player Rankings
-
-# Release
-* The program development is going on, and will release by October, it's trial has released but its under testing. 
 
 # For any query contact us here:
 * Email - kavinsjindal@gmail.com
