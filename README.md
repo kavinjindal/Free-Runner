@@ -1,5 +1,5 @@
 # Free-Runner
-This is my first evert game that I have started working on. It is a running game like Super Mario.  I was recently learning Gdevelop and I have started making my own games using this software. This is likely to release by the end of October so stay tuned. 
+This is my first evert game that I have started working on. It is a running game like Super Mario.  I was recently learning Gdevelop and I have started making my own games using this software. This is broken actually but you can play it if you feel like. 
 
 # Play game online
 https://games.gdevelop-app.com/game-bf0f6eba-f041-4064-94b1-69fe20860643/index.html
